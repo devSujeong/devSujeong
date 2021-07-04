@@ -12,7 +12,7 @@
 <!-- [![Apollo Badge](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=Apollo-GraphQL&logoColor=white)](https://www.apollographql.com/) -->
 <!-- [![styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://www.apollographql.com/) -->
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devSujeong&langs_count=9&hide=TSQL,PLpgSQL,PLSQL&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devSujeong&langs_count=10&hide=TSQL,PLpgSQL,PLSQL&layout=compact&theme=radical)
 
 <!-- 대표 레포지토리 연결하기 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devSujeong&repo=react-ui)](https://github.com/devSujeong/react-ui) -->
