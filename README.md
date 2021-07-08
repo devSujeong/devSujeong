@@ -1,6 +1,7 @@
 # Sujeong Kim (Crystal)
 👩‍💻 WEB FRONT-END Developer <br />
 🏢 [Second Syndrome](https://2ndsyndrome.com) developer <br />
+✍️ [Blog](https://velog.io/@dev_crystal)<br />
 📑 [Resume](https://www.notion.so/Front-end-Developer-5cd37738cf764cf3bb1d8d197342353c)
 
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
